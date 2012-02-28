@@ -1,0 +1,16 @@
+\documentclass{article}
+\usepackage{kpfonts}
+\usepackage{setspace}
+\usepackage[hmargin=3cm,vmargin=3.5cm]{geometry}
+\usepackage{fancyhdr}
+
+\lhead{Date Goes Here}
+\chead{Title Goes Here}
+\rhead{Kevin Li}
+
+\pagestyle{fancy}
+\doublespacing
+
+\begin{document}
+
+\end{document}
