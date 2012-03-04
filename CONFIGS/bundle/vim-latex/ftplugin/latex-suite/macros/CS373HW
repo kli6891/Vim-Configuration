@@ -1,0 +1,16 @@
+\documentclass{article}
+\usepackage{amssymb, latexsymb}
+\usepackage{amsthm,amsmath}
+
+\usepackage{ae}
+\usepackage{fancyhdr}
+\lhead{<++>\\Discussion: 10AM}
+\chead{CS 373: Homework \#<++>}
+\rhead{Kevin Li\\netid: kli8}
+
+\pagestyle{fancy}
+
+\begin{document}
+    \include{<++>}
+
+\end{document}
