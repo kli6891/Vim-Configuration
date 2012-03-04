@@ -1,0 +1,1 @@
+/home/kevin/.spf13-vim-3/.vim
